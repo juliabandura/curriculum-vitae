@@ -1,3 +1,2 @@
-# curriculum-vitae
-I am a 4th-year iSci student interested in the molecular mechanisms of 
-neurotransmitter release at the presynaptic synapse.
+# Julia Bandura Curriculum Vitae
+I am a fourth-year Integrated Science student at McMaster University interested in the presynaptic mechanisms of neurotransmitter release.
