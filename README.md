@@ -1,2 +1,2 @@
 # Julia Bandura Curriculum Vitae
-I am a fourth-year Integrated Science student at McMaster University interested in the presynaptic mechanisms of neurotransmitter release.
+I am a second-year PhD student in Physiology at the University of Toronto. My github is mostly devoted to storing my private bioinformatics projects, but I have a few past projects from my undergrad in this repository that you can check out if you want. 
